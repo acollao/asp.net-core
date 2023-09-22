@@ -1,0 +1,185 @@
+﻿@model IEnumerable<LNTADSpreadsheets.Models.SpreadsheetModel>
+
+@{
+	ViewData["Title"] = "Active Spreadsheets";
+}
+
+<style>
+	#submitButton {
+		background-color: #e8171f;
+		color: #fff;
+	}
+
+	.submit-progress {
+		position: fixed;
+		top: 50%;
+		left: 50%;
+		height: 6em;
+		padding-top: 1.75em;
+		width: 20em;
+		margin-left: -10em;
+		padding-left: 1em;
+		background-color: black;
+		color: white;
+		text-align: center;
+		-webkit-border-radius: 0.4em;
+		-moz-border-radius: 0.4em;
+		border-radius: 0.4em;
+		box-shadow: 0.4em 0.4em rgba(0,0,0,0.6);
+		-webkit-box-shadow: 0.4em 0.4em rgba(0,0,0,0.6);
+		-moz-box-shadow: 0.4em 0.4em rgba(0,0,0,0.6);
+		z-index: 9;
+	}
+
+		.submit-progress i {
+			margin-right: 0.5em;
+		}
+
+	.modal-body {
+		padding: 2rem;
+		font-size: 16px;
+	}
+
+	.modal-header {
+		display: initial;
+		font-size: 16px;
+	}
+
+	.tRight{
+		text-align: right;	
+	}
+
+
+	.tCenter {
+		text-align: center;
+	}
+
+	.lockClass {
+		background-color: #fed8b1;
+	}
+</style>
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close btn-info" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h4 class="modal-title" id="myModalLabel">Info</h4>
+			</div>
+			<div class="modal-body" id="modal-body">
+				@ViewBag.Status
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-info" data-dismiss="modal">OK</button>
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+<h4>Active Spreadsheets</h4>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.FileName)
+			</th>
+			<th class="tCenter">
+				@Html.DisplayNameFor(model => model.Size)
+			</th>
+			<th class="tCenter">
+				@Html.DisplayNameFor(model => model.DateCreated)
+			</th>
+			<th class="tCenter">
+				@Html.DisplayNameFor(model => model.CreatedBy)
+			</th>
+			<th class="tCenter">
+				@Html.DisplayNameFor(model => model.IsLocked)
+			</th>
+			<th class="tCenter">
+				@Html.DisplayNameFor(model => model.Controller)
+			</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+		<tr class="@(item.IsLocked == "Y" ? "lockClass" : "")">
+			<td>
+				@Html.DisplayFor(modelItem => item.FileName)
+			</td>
+			<td class="tCenter">
+				@Html.DisplayFor(modelItem => item.Size)
+			</td>
+			<td class="tCenter">
+				@Html.DisplayFor(modelItem => item.DateCreated)
+			</td>
+			<td class="tCenter">
+				@Html.DisplayFor(modelItem => item.CreatedBy)
+			</td>
+			<td class="tCenter">
+				@Html.DisplayFor(modelItem => item.IsLocked)
+			</td>
+			<td class="tCenter">
+				@Html.DisplayFor(modelItem => item.Controller)
+			</td>
+			<td class="tRight">
+				@if (item.IsLocked == "N")
+				{
+					<a asp-action="Lock" asp-controller="Home" asp-route-filename="@item.FileName" asp-route-controllerName="@item.Controller" asp-route-isLocked="@item.IsLocked"><i class="fas fa-lock"></i></a>
+				}
+				else
+				{
+					<a asp-action="Lock" asp-controller="Home" asp-route-filename="@item.FileName" asp-route-controllerName="@item.Controller" asp-route-isLocked="@item.IsLocked"><i class="fas fa-lock-open"></i></a>
+				}
+				|
+				@*<a asp-action="Update">UPLOAD</a> |*@
+				<a asp-action="Download" asp-controller="Home" asp-route-filename="@item.FileName" asp-route-controllerName="@item.Controller" asp-route-isLocked="@item.IsLocked"><i class="fas fa-file-download"></i></a>
+			</td>
+		</tr>
+		}
+	</tbody>
+</table>
+
+<br />
+<br />
+@using (Html.BeginForm("Upload", "Home", FormMethod.Post, new { enctype = "multipart/form-data", @id = "frmTransaction" }))
+{
+	@Html.AntiForgeryToken()
+
+	<div class="form-group">
+		<label class="control-label" style="width:360px;">&nbsp;Upload a File</label>
+		<br />
+		<input type="file" name="postedFiles" multiple />
+		<br />
+		<br />
+		<input type="submit" class="form-control btn" id="submitButton" style="width:115px;" value="UPLOAD" onclick="return DisplayProgressMessage();" />
+		<br />
+		<br />
+		@Html.ValidationSummary(true, "", new { @class = "text-danger font-weight-bold", @style = "margin-left: 20px;" })
+	</div>
+}
+<span style="color:green">@Html.Raw(ViewBag.UploadMsg)</span>
+
+<div class="submit-progress" style="display: none" id="loader">
+	<i class="fa fa-2x fa-spinner fa-spin"></i>
+	<label>Loading. Please wait...</label>
+</div>
+
+@section Scripts
+{
+	<script type="text/javascript" src="~/js/home.js"></script>
+}
+
+<script type="text/javascript">
+     var errorModal = "@ViewBag.Status";
+
+    $(document).ready(function () {
+
+        if (errorModal != "") {
+            $('#myModal').modal('show');
+        }
+    });
+
+</script>

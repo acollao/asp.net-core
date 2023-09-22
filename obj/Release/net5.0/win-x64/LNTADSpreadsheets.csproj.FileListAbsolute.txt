@@ -1,0 +1,993 @@
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\appsettings.Development.json
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\appsettings.json
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\libman.json
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\LNTADSpreadsheets.exe
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\LNTADSpreadsheets.deps.json
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\LNTADSpreadsheets.runtimeconfig.json
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\LNTADSpreadsheets.runtimeconfig.dev.json
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\LNTADSpreadsheets.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ref\LNTADSpreadsheets.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\LNTADSpreadsheets.pdb
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\LNTADSpreadsheets.Views.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\LNTADSpreadsheets.Views.pdb
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Humanizer.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Razor.Language.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.CodeAnalysis.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.CodeAnalysis.CSharp.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.CodeAnalysis.Razor.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.CodeAnalysis.Workspaces.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Data.SqlClient.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.Design.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Identity.Client.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.IdentityModel.Logging.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\dotnet-aspnet-codegenerator-design.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\MySqlConnector.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Newtonsoft.Json.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Pomelo.EntityFrameworkCore.MySql.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Composition.AttributedModel.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Composition.Convention.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Composition.Hosting.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Composition.Runtime.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Composition.TypedParts.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Configuration.ConfigurationManager.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Caching.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\cs\Microsoft.CodeAnalysis.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\de\Microsoft.CodeAnalysis.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\es\Microsoft.CodeAnalysis.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\fr\Microsoft.CodeAnalysis.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\it\Microsoft.CodeAnalysis.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ja\Microsoft.CodeAnalysis.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ko\Microsoft.CodeAnalysis.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\pl\Microsoft.CodeAnalysis.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ru\Microsoft.CodeAnalysis.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\tr\Microsoft.CodeAnalysis.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Data.SqlClient.SNI.pdb
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.CSharp.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.VisualBasic.Core.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.VisualBasic.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Win32.Primitives.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Win32.Registry.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.AppContext.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Buffers.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Collections.Concurrent.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Collections.Immutable.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Collections.NonGeneric.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Collections.Specialized.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Collections.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.ComponentModel.Annotations.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.ComponentModel.DataAnnotations.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.ComponentModel.Primitives.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.ComponentModel.TypeConverter.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.ComponentModel.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Configuration.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Console.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Core.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Data.Common.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Data.DataSetExtensions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Data.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.Contracts.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.Debug.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.Process.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.StackTrace.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.Tools.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.TraceSource.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.Tracing.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Drawing.Primitives.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Drawing.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Dynamic.Runtime.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Formats.Asn1.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Globalization.Calendars.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Globalization.Extensions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Globalization.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.Compression.Brotli.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.Compression.FileSystem.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.Compression.ZipFile.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.Compression.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.FileSystem.AccessControl.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.FileSystem.Primitives.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.FileSystem.Watcher.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.FileSystem.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.IsolatedStorage.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.MemoryMappedFiles.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.Pipes.AccessControl.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.Pipes.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Linq.Expressions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Linq.Parallel.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Linq.Queryable.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Linq.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Memory.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.Http.Json.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.Http.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.HttpListener.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.Mail.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.NameResolution.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.NetworkInformation.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.Ping.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.Primitives.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.Requests.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.Security.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.ServicePoint.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.Sockets.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.WebClient.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.WebHeaderCollection.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.WebProxy.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.WebSockets.Client.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.WebSockets.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Numerics.Vectors.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Numerics.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.ObjectModel.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Private.DataContractSerialization.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Private.Uri.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Private.Xml.Linq.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Private.Xml.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Reflection.DispatchProxy.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Reflection.Emit.Lightweight.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Reflection.Emit.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Reflection.Extensions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Reflection.Metadata.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Reflection.Primitives.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Reflection.TypeExtensions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Reflection.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Resources.Reader.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Resources.ResourceManager.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Resources.Writer.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Extensions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Handles.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.InteropServices.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Intrinsics.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Loader.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Numerics.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Serialization.Formatters.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Serialization.Json.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Serialization.Primitives.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Serialization.Xml.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Serialization.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.AccessControl.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Claims.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Cryptography.Algorithms.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Cryptography.Cng.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Cryptography.Csp.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Cryptography.Encoding.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Cryptography.Primitives.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Principal.Windows.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Principal.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.SecureString.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.ServiceModel.Web.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.ServiceProcess.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Text.Encoding.CodePages.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Text.Encoding.Extensions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Text.Encoding.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Text.Encodings.Web.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Text.Json.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Text.RegularExpressions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Threading.Channels.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Threading.Overlapped.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Threading.Tasks.Dataflow.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Threading.Tasks.Extensions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Threading.Tasks.Parallel.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Threading.Tasks.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Threading.Thread.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Threading.ThreadPool.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Threading.Timer.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Threading.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Transactions.Local.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Transactions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.ValueTuple.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Web.HttpUtility.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Web.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Windows.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Xml.Linq.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Xml.ReaderWriter.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Xml.Serialization.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Xml.XDocument.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Xml.XPath.XDocument.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Xml.XPath.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Xml.XmlDocument.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Xml.XmlSerializer.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Xml.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\WindowsBase.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\mscorlib.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\netstandard.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Private.CoreLib.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-console-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-console-l1-2-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-debug-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-file-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-file-l1-2-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-file-l2-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-handle-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-heap-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-localization-l1-2-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-memory-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-profile-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-string-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-synch-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-synch-l1-2-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-util-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-math-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-private-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-process-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-string-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-time-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\clrcompression.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\clretwrc.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\clrjit.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\coreclr.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\createdump.exe
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\dbgshim.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\hostfxr.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\hostpolicy.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\mscordaccore.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\mscordaccore_amd64_amd64_5.0.821.31504.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\mscordbi.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\mscorrc.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ucrtbase.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Antiforgery.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Authentication.Core.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Authentication.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Authorization.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Components.Authorization.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Components.Forms.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Components.Server.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Components.Web.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Components.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.CookiePolicy.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Cors.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.DataProtection.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Diagnostics.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.HostFiltering.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Hosting.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Http.Connections.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Http.Extensions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Http.Features.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Http.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.HttpOverrides.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Identity.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Localization.Routing.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Localization.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Metadata.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.Core.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Razor.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.ResponseCaching.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.ResponseCompression.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Rewrite.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Routing.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Server.IIS.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Session.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.SignalR.Common.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.SignalR.Core.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.SignalR.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.StaticFiles.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.WebSockets.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.WebUtilities.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.Ini.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.Xml.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.FileProviders.Composite.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Hosting.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Http.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Identity.Core.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Identity.Stores.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Localization.Abstractions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Localization.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Logging.TraceSource.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Logging.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.ObjectPool.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Options.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Primitives.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.WebEncoders.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.JSInterop.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Net.Http.Headers.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Win32.SystemEvents.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.EventLog.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Drawing.Common.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.Pipelines.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Cryptography.Pkcs.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Cryptography.Xml.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Permissions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Windows.Extensions.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\bin\Release\net5.0\win-x64\aspnetcorev2_inprocess.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.GeneratedMSBuildEditorConfig.editorconfig
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.AssemblyInfoInputs.cache
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.AssemblyInfo.cs
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.csproj.CoreCompileInputs.cache
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.MvcApplicationPartsAssemblyInfo.cache
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.RazorAssemblyInfo.cache
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.RazorAssemblyInfo.cs
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\staticwebassets\LNTADSpreadsheets.StaticWebAssets.Manifest.cache
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\staticwebassets\LNTADSpreadsheets.StaticWebAssets.xml
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\scopedcss\bundle\LNTADSpreadsheets.styles.css
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.TagHelpers.input.cache
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.TagHelpers.output.cache
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.RazorCoreGenerate.cache
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Accounts\Index.cshtml.g.cs
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Archive\Index.cshtml.g.cs
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Home\Error.cshtml.g.cs
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Home\Index.cshtml.g.cs
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Login\Index.cshtml.g.cs
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Shared\Error.cshtml.g.cs
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Shared\_Layout2.cshtml.g.cs
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\_ViewImports.cshtml.g.cs
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\_ViewStart.cshtml.g.cs
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.RazorTargetAssemblyInfo.cache
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.RazorTargetAssemblyInfo.cs
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.Views.pdb
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.csproj.CopyComplete
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\ref\LNTADSpreadsheets.dll
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.pdb
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.genruntimeconfig.cache
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Accounts\Create.cshtml.g.cs
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Accounts\ResetPassword.cshtml.g.cs
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Accounts\Update.cshtml.g.cs
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Archive\PreviousRepository.cshtml.g.cs
+D:\LN Tax Assurance Direct\Project\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.csprojAssemblyReference.cache
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\appsettings.Development.json
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\appsettings.json
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\libman.json
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\LNTADSpreadsheets.exe
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\LNTADSpreadsheets.deps.json
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\LNTADSpreadsheets.runtimeconfig.json
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\LNTADSpreadsheets.runtimeconfig.dev.json
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\LNTADSpreadsheets.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ref\LNTADSpreadsheets.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\LNTADSpreadsheets.pdb
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\LNTADSpreadsheets.Views.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\LNTADSpreadsheets.Views.pdb
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Humanizer.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Razor.Language.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.CodeAnalysis.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.CodeAnalysis.CSharp.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.CodeAnalysis.Razor.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.CodeAnalysis.Workspaces.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Data.SqlClient.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.Design.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Identity.Core.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Identity.Stores.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Identity.Client.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.IdentityModel.Logging.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\dotnet-aspnet-codegenerator-design.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\MySqlConnector.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Newtonsoft.Json.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Pomelo.EntityFrameworkCore.MySql.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Composition.AttributedModel.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Composition.Convention.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Composition.Hosting.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Composition.Runtime.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Composition.TypedParts.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Configuration.ConfigurationManager.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Caching.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\cs\Microsoft.CodeAnalysis.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\de\Microsoft.CodeAnalysis.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\es\Microsoft.CodeAnalysis.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\fr\Microsoft.CodeAnalysis.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\it\Microsoft.CodeAnalysis.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ja\Microsoft.CodeAnalysis.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ko\Microsoft.CodeAnalysis.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\pl\Microsoft.CodeAnalysis.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ru\Microsoft.CodeAnalysis.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\tr\Microsoft.CodeAnalysis.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Data.SqlClient.SNI.pdb
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.CSharp.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.VisualBasic.Core.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.VisualBasic.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Win32.Primitives.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Win32.Registry.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.AppContext.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Buffers.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Collections.Concurrent.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Collections.Immutable.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Collections.NonGeneric.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Collections.Specialized.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Collections.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.ComponentModel.Annotations.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.ComponentModel.DataAnnotations.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.ComponentModel.Primitives.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.ComponentModel.TypeConverter.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.ComponentModel.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Configuration.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Console.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Core.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Data.Common.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Data.DataSetExtensions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Data.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.Contracts.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.Debug.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.Process.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.StackTrace.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.Tools.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.TraceSource.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.Tracing.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Drawing.Primitives.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Drawing.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Dynamic.Runtime.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Formats.Asn1.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Globalization.Calendars.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Globalization.Extensions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Globalization.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.Compression.Brotli.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.Compression.FileSystem.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.Compression.ZipFile.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.Compression.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.FileSystem.AccessControl.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.FileSystem.Primitives.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.FileSystem.Watcher.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.FileSystem.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.IsolatedStorage.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.MemoryMappedFiles.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.Pipes.AccessControl.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.Pipes.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Linq.Expressions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Linq.Parallel.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Linq.Queryable.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Linq.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Memory.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.Http.Json.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.Http.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.HttpListener.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.Mail.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.NameResolution.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.NetworkInformation.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.Ping.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.Primitives.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.Requests.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.Security.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.ServicePoint.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.Sockets.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.WebClient.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.WebHeaderCollection.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.WebProxy.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.WebSockets.Client.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.WebSockets.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Net.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Numerics.Vectors.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Numerics.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.ObjectModel.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Private.DataContractSerialization.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Private.Uri.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Private.Xml.Linq.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Private.Xml.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Reflection.DispatchProxy.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Reflection.Emit.Lightweight.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Reflection.Emit.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Reflection.Extensions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Reflection.Metadata.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Reflection.Primitives.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Reflection.TypeExtensions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Reflection.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Resources.Reader.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Resources.ResourceManager.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Resources.Writer.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Extensions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Handles.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.InteropServices.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Intrinsics.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Loader.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Numerics.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Serialization.Formatters.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Serialization.Json.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Serialization.Primitives.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Serialization.Xml.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.Serialization.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Runtime.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.AccessControl.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Claims.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Cryptography.Algorithms.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Cryptography.Cng.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Cryptography.Csp.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Cryptography.Encoding.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Cryptography.Primitives.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Principal.Windows.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Principal.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.SecureString.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.ServiceModel.Web.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.ServiceProcess.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Text.Encoding.CodePages.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Text.Encoding.Extensions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Text.Encoding.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Text.Encodings.Web.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Text.Json.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Text.RegularExpressions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Threading.Channels.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Threading.Overlapped.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Threading.Tasks.Dataflow.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Threading.Tasks.Extensions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Threading.Tasks.Parallel.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Threading.Tasks.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Threading.Thread.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Threading.ThreadPool.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Threading.Timer.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Threading.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Transactions.Local.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Transactions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.ValueTuple.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Web.HttpUtility.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Web.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Windows.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Xml.Linq.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Xml.ReaderWriter.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Xml.Serialization.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Xml.XDocument.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Xml.XPath.XDocument.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Xml.XPath.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Xml.XmlDocument.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Xml.XmlSerializer.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Xml.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\WindowsBase.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\mscorlib.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\netstandard.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Private.CoreLib.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-console-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-console-l1-2-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-debug-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-file-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-file-l1-2-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-file-l2-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-handle-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-heap-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-localization-l1-2-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-memory-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-profile-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-string-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-synch-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-synch-l1-2-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-core-util-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-math-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-private-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-process-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-string-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-time-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\clrcompression.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\clretwrc.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\clrjit.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\coreclr.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\createdump.exe
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\dbgshim.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\hostfxr.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\hostpolicy.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\mscordaccore.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\mscordaccore_amd64_amd64_5.0.421.11614.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\mscordbi.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\mscorrc.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\ucrtbase.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Antiforgery.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Authentication.Core.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Authentication.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Authorization.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Components.Authorization.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Components.Forms.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Components.Server.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Components.Web.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Components.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.CookiePolicy.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Cors.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.DataProtection.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Diagnostics.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.HostFiltering.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Hosting.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Http.Connections.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Http.Extensions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Http.Features.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Http.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.HttpOverrides.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Identity.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Localization.Routing.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Localization.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Metadata.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.Core.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Mvc.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Razor.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.ResponseCaching.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.ResponseCompression.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Rewrite.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Routing.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Server.IIS.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.Session.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.SignalR.Common.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.SignalR.Core.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.SignalR.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.StaticFiles.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.WebSockets.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.WebUtilities.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.AspNetCore.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.Ini.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.Xml.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.FileProviders.Composite.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Hosting.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Http.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Localization.Abstractions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Localization.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Logging.TraceSource.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Logging.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.ObjectPool.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Options.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.Primitives.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Extensions.WebEncoders.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.JSInterop.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Net.Http.Headers.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\Microsoft.Win32.SystemEvents.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Diagnostics.EventLog.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Drawing.Common.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.IO.Pipelines.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Cryptography.Pkcs.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Cryptography.Xml.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Security.Permissions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\System.Windows.Extensions.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\win-x64\aspnetcorev2_inprocess.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.csprojAssemblyReference.cache
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.AssemblyInfoInputs.cache
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.AssemblyInfo.cs
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.csproj.CoreCompileInputs.cache
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.MvcApplicationPartsAssemblyInfo.cache
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.RazorAssemblyInfo.cache
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.RazorAssemblyInfo.cs
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\staticwebassets\LNTADSpreadsheets.StaticWebAssets.Manifest.cache
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\staticwebassets\LNTADSpreadsheets.StaticWebAssets.xml
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\scopedcss\bundle\LNTADSpreadsheets.styles.css
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.TagHelpers.input.cache
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.TagHelpers.output.cache
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.RazorCoreGenerate.cache
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Accounts\Create.cshtml.g.cs
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Accounts\Index.cshtml.g.cs
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Accounts\ResetPassword.cshtml.g.cs
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Accounts\Update.cshtml.g.cs
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Archive\Index.cshtml.g.cs
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Archive\PreviousRepository.cshtml.g.cs
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Home\Error.cshtml.g.cs
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Home\Index.cshtml.g.cs
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Login\Index.cshtml.g.cs
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Shared\Error.cshtml.g.cs
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Shared\_Layout2.cshtml.g.cs
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\_ViewImports.cshtml.g.cs
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\Razor\Views\_ViewStart.cshtml.g.cs
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.RazorTargetAssemblyInfo.cache
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.RazorTargetAssemblyInfo.cs
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.Views.pdb
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.csproj.CopyComplete
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\ref\LNTADSpreadsheets.dll
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.pdb
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\LNTADSpreadsheets.genruntimeconfig.cache
+E:\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\obj\Release\net5.0\win-x64\NuGet\F5C0E0C024E3F26563852777A5BF87D0C60621D6\MimeTypes\2.2.0\MimeTypes.cs

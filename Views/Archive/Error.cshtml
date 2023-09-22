@@ -1,0 +1,80 @@
+﻿@{
+	Layout = "";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>LN TAD - @ViewData["Title"]</title>
+	<link rel="stylesheet" href="~/css/layout.css" />
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+		  integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
+		  crossorigin="anonymous"
+		  asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.css"
+		  asp-fallback-test-class="sr-only"
+		  asp-fallback-test-property="position"
+		  asp-fallback-test-value="absolute"
+		  asp-suppress-fallback-integrity="true">
+	<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+	@*<link href="~/lib/font-awesome/css/all.css" rel="stylesheet" />*@
+	<link href="~/font-awesome/css/all.css" rel="stylesheet" />
+	@*<script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>*@
+	<script src="~/lib/jquery/dist/jquery.min.js"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+			integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"
+			asp-fallback-href="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+	<style>
+		* {
+			margin: 20px;
+			font-family: 'Poppins', sans-serif;
+		}
+
+		.alert {
+			padding: 5px;
+		}
+
+		p {
+			display: initial;
+		}
+	</style>
+
+</head>
+<body>
+	<h3>An error occurred processing your request.</h3>
+	<hr />
+	<h3>Exception Details:</h3>
+	@if (ViewBag.ExceptionMessage != null)
+	{
+		<div class="alert alert-danger">
+			@*<h3>Exception Message</h3>*@
+			<p>@ViewBag.ExceptionMessage</p>
+
+			@if (ViewBag.InnerMessage != null)
+			{
+				<p>"@ViewBag.InnerMessage"</p>
+			}
+
+			
+
+		</div>
+	}
+	else
+	{
+		<div class="alert alert-danger">
+			<h3>Exception Message</h3>
+			@if (ViewBag.ErrorMessage != null)
+			{
+				<p>"@ViewBag.ErrorMessage"</p>
+			}
+			else
+			{
+				<p>No error message available.</p>
+			}
+		</div>
+	}
+	<span>Please click the browser's BACK button to return to the previous page.</span>
+</body>
+</html>
+
+

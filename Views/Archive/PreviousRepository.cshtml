@@ -1,0 +1,162 @@
+﻿@model IEnumerable<LNTADSpreadsheets.Models.ArchiveModel>
+
+@{
+	ViewData["Title"] = "Archived Spreadsheets";
+}
+
+<style>
+	#submitButton {
+		background-color: #e8171f;
+		color: #fff;
+	}
+
+	.submit-progress {
+		position: fixed;
+		top: 50%;
+		left: 50%;
+		height: 6em;
+		padding-top: 1.75em;
+		width: 20em;
+		margin-left: -10em;
+		padding-left: 1em;
+		background-color: black;
+		color: white;
+		text-align: center;
+		-webkit-border-radius: 0.4em;
+		-moz-border-radius: 0.4em;
+		border-radius: 0.4em;
+		box-shadow: 0.4em 0.4em rgba(0,0,0,0.6);
+		-webkit-box-shadow: 0.4em 0.4em rgba(0,0,0,0.6);
+		-moz-box-shadow: 0.4em 0.4em rgba(0,0,0,0.6);
+		z-index: 9;
+	}
+
+		.submit-progress i {
+			margin-right: 0.5em;
+		}
+
+	.modal-body {
+		padding: 2rem;
+		font-size: 16px;
+	}
+
+	.modal-header {
+		display: initial;
+		font-size: 16px;
+	}
+
+	.tCenter {
+		text-align: center;
+	}
+
+	#archiveBtn {
+		background-color: #e8171f;
+		color: #fff;
+		width: 115px;
+		float: right;
+	}
+
+	thead {
+		cursor: pointer;
+	}
+</style>
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close btn-info" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h4 class="modal-title" id="myModalLabel">Info</h4>
+			</div>
+			<div class="modal-body" id="modal-body">
+				@ViewBag.Status
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-info" data-dismiss="modal">OK</button>
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+<div class="form-group" id="aboveID">
+	<h4 style="float: left;">Propylon Archived Spreadsheets</h4>
+	<input type="button" class="form-control btn" id="archiveBtn" value="BACK" onclick="location.href='@Url.Action("Index", "Archive")'" />
+</div>
+<br />
+<br />
+<div id="dT-wrapper-top"></div>
+<table class="table" id="dataTable-Archive">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.FileName)
+			</th>
+			<th class="tCenter">
+				@Html.DisplayNameFor(model => model.Size)
+			</th>
+			<th class="tCenter">
+				@Html.DisplayNameFor(model => model.DateCreated)
+			</th>
+			<th class="tCenter">
+				@Html.DisplayNameFor(model => model.CreatedBy)
+			</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.FileName)
+				</td>
+				<td class="tCenter">
+					@Html.DisplayFor(modelItem => item.Size)
+				</td>
+				<td class="tCenter">
+					@Html.DisplayFor(modelItem => item.DateCreated)
+				</td>
+				<td class="tCenter">
+					@Html.DisplayFor(modelItem => item.CreatedBy)
+				</td>
+				<td>
+					<a asp-action="Download" asp-controller="Archive" asp-route-filename="@item.FileName">DOWNLOAD</a>&nbsp;|&nbsp;
+					<a asp-action="Delete" asp-controller="Archive" asp-route-filename="@item.FileName" asp-route-view="PreviousRepository" onclick="return confirm('Do you wish to delete?')">DELETE</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
+<div class="submit-progress" style="display: none" id="loader">
+	<i class="fa fa-2x fa-spinner fa-spin"></i>
+	<label>Loading. Please wait...</label>
+</div>
+<br />
+<br />
+
+@section Styles {
+	<link href="@Url.Content("~/css/datatable.css")" rel="stylesheet" type="text/css" />
+}
+
+
+@section Scripts {
+	@*<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>*@
+	<script type="text/javascript" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+}
+<script type="text/javascript">
+	var status = "@ViewBag.Status";
+
+    $(document).ready(function () {
+
+		if (status != "") {
+            $('#myModal').modal('show');
+		}
+
+		$('#dataTable-Archive').dataTable({
+			"order": [],
+		});
+	});
+
+
+</script>

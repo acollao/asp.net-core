@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\acollao\source\repos\ln-tad-spreadsheets-web-app\LNTADSpreadsheets\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2023-09-19T10:44:33.9851261Z;True|2023-09-19T18:39:37.7725621+08:00;True|2023-09-18T13:32:42.2372500+08:00;True|2023-09-18T13:21:12.5959923+08:00;True|2023-09-18T12:52:25.5926944+08:00;True|2023-09-17T15:54:48.1868578+08:00;True|2023-09-16T23:11:29.6539515+08:00;True|2023-09-16T22:30:34.8206329+08:00;True|2023-09-16T21:41:25.1084767+08:00;True|2023-09-16T21:11:49.1133754+08:00;True|2023-09-16T19:11:35.1629513+08:00;True|2023-09-16T19:07:51.3525675+08:00;</History>
+  </PropertyGroup>
+</Project>

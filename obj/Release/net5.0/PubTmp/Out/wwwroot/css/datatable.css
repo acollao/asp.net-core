@@ -1,0 +1,22 @@
+﻿/*datatable css*/
+[type=search] {
+    margin-left: 10px;
+}
+
+#dataTable-Archive_length, #dataTable-Archive_info {
+    display: inline-flex;
+}
+
+#dataTable-Archive_filter, #dataTable-Archive_paginate {
+    display: inline-flex;
+    float: right;
+}
+
+.paginate_button {
+    margin-left: 10px;
+}
+
+div#dataTable-Archive_paginate
+{
+    cursor: pointer;
+}

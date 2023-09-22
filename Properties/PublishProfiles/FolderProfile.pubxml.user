@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\lntaxbuild</_PublishTargetUrl>
+    <History>True|2023-08-21T03:03:05.6469744Z;True|2023-08-20T23:37:49.9728880+08:00;True|2021-08-11T23:34:25.1208547+08:00;True|2021-08-11T15:23:01.9620750+08:00;True|2021-08-10T21:34:53.3558602+08:00;True|2021-08-10T17:26:58.8463156+08:00;True|2021-08-06T20:46:01.8206811+08:00;True|2021-08-05T23:24:22.6950997+08:00;True|2021-08-05T20:53:08.0694560+08:00;True|2021-07-31T21:14:40.6039977+08:00;True|2021-07-31T20:00:13.0580643+08:00;True|2021-07-31T00:30:05.5659595+08:00;True|2021-07-31T00:06:09.9363514+08:00;True|2021-07-31T00:04:06.1265569+08:00;True|2021-07-30T23:41:09.3799065+08:00;True|2021-07-30T21:50:14.9999525+08:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>server=lndtax.cwsjfmjisrc8.ap-southeast-1.rds.amazonaws.com%3bport=3306%3bdatabase=lntad_spreadsheets_db%3buser=admin%3bpassword=UZ9tiKeK0VIh6DPghema</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

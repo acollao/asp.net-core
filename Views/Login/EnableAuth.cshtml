@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "LN TAD - Enable 2FA";
+}
+
+<div>
+    <img src=@ViewBag.BarcodeImageUrl width="300" height="300" />
+</div>
+<div>
+    Manual Setup Code : @ViewBag.SetupCode
+</div>
+<div>
+    @using (Html.BeginForm("TwoFactorAuthenticate", "Login", FormMethod.Post))
+    {
+    <input type="text" name="otpcode" />
+    <input type="submit" class="btn btn-success" />
+    }
+</div>
+

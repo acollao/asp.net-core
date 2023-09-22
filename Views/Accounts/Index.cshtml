@@ -1,0 +1,124 @@
+﻿@model IEnumerable<LNTADSpreadsheets.Models.SignUpModel>
+
+@{
+	ViewBag.Title = "Users";
+}
+
+<style>
+	.tCenter {
+		text-align: center;
+	}
+
+	#createBtn {
+		background-color: #e8171f;
+		color: #fff;
+		width: 115px;
+		float: right;
+	}
+
+	.modal-body {
+		padding: 2rem;
+		font-size: 16px;
+	}
+
+	.modal-header {
+		display: initial;
+		font-size: 16px;
+	}
+
+
+	thead {
+		cursor: pointer;
+	}
+</style>
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close btn-info" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h4 class="modal-title" id="myModalLabel">Info</h4>
+			</div>
+			<div class="modal-body" id="modal-body">
+				@ViewBag.Status
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-info" data-dismiss="modal">OK</button>
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+<div class="form-group" id="aboveID">
+	<h4 style="float: left;">Users</h4>
+	<button type="button" class="form-control btn" id="createBtn" value="CREATE" onclick="location.href='@Url.Action("Create", "Accounts")'"><i class="fas fa-user-plus"></i></button>
+</div>
+<br />
+<br />
+<table class="table" id="dataTable-Archive">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.EmailAddress)
+			</th>
+			<th class="tCenter">
+				@Html.DisplayNameFor(model => model.FirstName)
+			</th>
+			<th class="tCenter">
+				@Html.DisplayNameFor(model => model.LastName)
+			</th>
+			<th class="tCenter">
+				@Html.DisplayNameFor(model => model.Role)
+			</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.EmailAddress)
+				</td>
+				<td class="tCenter">
+					@Html.DisplayFor(modelItem => item.FirstName)
+				</td>
+				<td class="tCenter">
+					@Html.DisplayFor(modelItem => item.LastName)
+				</td>
+				<td class="tCenter">
+					@Html.DisplayFor(modelItem => item.Role)
+				</td>
+				<td class="tCenter">
+					<a asp-action="Update" asp-controller="Accounts" asp-route-emailAdd="@item.EmailAddress"><i class="fas fa-user-edit"></i></a>&nbsp;|
+					<a asp-action="Delete" asp-controller="Accounts" asp-route-emailAdd="@item.EmailAddress" onclick="return confirm('Do you wish to delete?')"><i class="fas fa-trash"></i></a>&nbsp;|
+					<a asp-action="ResetPassword" asp-controller="Accounts" asp-route-emailAdd="@item.EmailAddress"><i class="fas fa-redo-alt"></i></a>
+
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
+@section Styles {
+	<link href="@Url.Content("~/css/datatable.css")" rel="stylesheet" type="text/css" />
+}
+
+@section Scripts {
+	<script type="text/javascript" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+}
+
+
+<script type="text/javascript">
+    var status = "@ViewBag.Status";
+
+    $(document).ready(function () {
+
+		if (status != "") {
+            $('#myModal').modal('show');
+        }
+
+		$('#dataTable-Archive').DataTable();
+	});
+
+</script>

@@ -1,0 +1,48 @@
+﻿@model ErrorViewModel
+@{
+    ViewData["Title"] = "Error";
+}
+
+<h1 class="text-danger">Error.</h1>
+<h2 class="text-danger">An error occurred while processing your request.</h2>
+
+@if (Model.ShowRequestId)
+{
+    <p>
+        <strong>Request ID:</strong> <code>@Model.RequestId</code>
+    </p>
+}
+
+<h3>An error occurred processing your request.</h3>
+	<hr />
+	<h3>Exception Details:</h3>
+	@if (ViewBag.ExceptionMessage != null)
+	{
+		<div class="alert alert-danger">
+			@*<h3>Exception Message</h3>*@
+			<p>@ViewBag.ExceptionMessage</p>
+
+			@if (ViewBag.InnerMessage != null)
+			{
+				<p>"@ViewBag.InnerMessage"</p>
+			}
+
+			
+
+		</div>
+	}
+	else
+	{
+		<div class="alert alert-danger">
+			<h3>Exception Message</h3>
+			@if (ViewBag.ErrorMessage != null)
+			{
+				<p>"@ViewBag.ErrorMessage"</p>
+			}
+			else
+			{
+				<p>No error message available.</p>
+			}
+		</div>
+	}
+	<span>Please click the browser's BACK button to return to the previous page.</span>

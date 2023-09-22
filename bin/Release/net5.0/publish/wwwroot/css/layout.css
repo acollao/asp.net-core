@@ -1,0 +1,61 @@
+﻿* {
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Poppins', sans-serif;
+}
+
+.menu-bar {
+	position: relative;
+	z-index: 1;
+	background-color: #e8171f;
+}
+
+.navbar-brand {
+	color: #fff !important;
+	width: 150px;
+	margin-top: 5px;
+	margin-left: 20px;
+	border-bottom: 1px solid #e8171f;
+}
+
+.nav-link {
+	font-size: 16px;
+	margin: 3px;
+	color: #fff !important;
+	font-weight: 500;
+	border-bottom: 1px solid #e8171f;
+}
+
+.navbar-nav {
+	text-align: right;
+	margin-right: 20px;
+}
+
+.menu-bar .navbar-toggler {
+	padding-right: 20px;
+	outline: none !important;
+	border: none !important;
+}
+
+.navbar .fas.fa-bars {
+	font-size: 26px;
+	color: #fff;
+}
+
+
+.nav-link:hover {
+	font-weight: 600;
+	border-bottom: 1px solid #fff;
+}
+
+@media only screen and (max-width: 1000px) {
+	.nav-link:hover {
+		border-bottom: none !important;
+	}
+}
+
+.mainBody {
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
